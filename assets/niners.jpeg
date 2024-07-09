@@ -1,0 +1,13 @@
+--2024-07-09 00:19:13--  https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2004149010.jpeg
+Resolving media.cnn.com (media.cnn.com)... 2a04:4e42:1e::773, 151.101.127.5
+Connecting to media.cnn.com (media.cnn.com)|2a04:4e42:1e::773|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113875 (111K) [image/jpeg]
+Saving to: ‘gettyimages-2004149010.jpeg’
+
+     0K .......... .......... .......... .......... .......... 44%  739K 0s
+    50K .......... .......... .......... .......... .......... 89% 1018K 0s
+   100K .......... .                                          100%  224K=0.1s
+
+2024-07-09 00:19:13 (953 KB/s) - ‘gettyimages-2004149010.jpeg’ saved [113875/113875]
+
